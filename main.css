@@ -1,0 +1,60 @@
+/* background color */
+body {
+    background-color: rgba(0, 2, 31, 0.993);
+}
+
+ul {
+    list-style: none;
+}
+
+/* text align for html doc */
+.article_body {
+    text-align: center;
+}
+
+/* text colors for document */
+.p_content {
+    color: rgb(3, 3, 46);
+}
+.list_items {
+    color: rgb(3, 3, 46);
+}
+
+/* all headers */
+.header {
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+
+/* list of jim coopers info */
+.li_content {
+    font-family: sans-serif;
+    font-weight: 400;
+    margin: auto;
+    padding: 1em;
+    background: rgb(88, 102, 165);
+    width: 66%;
+    text-align: left  
+}
+/* list of commitees Jim is on */
+.list_items{
+    font-family: sans-serif;
+    text-align: left;
+    font-weight: 400;
+    margin: auto;
+    background: whitesmoke;
+    width: 66%;
+    border-radius: 30px;
+}
+
+/* img styling */
+
+
+
+
+
+
+/* style for bills passed links */
+.bill_links { 
+    text-align: center;
+}
